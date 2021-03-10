@@ -318,3 +318,5 @@ if (!$result_flag) {
 </body>
 
 </html>
+
+<!-- tesutで追加 -->
