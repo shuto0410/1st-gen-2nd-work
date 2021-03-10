@@ -66,7 +66,7 @@ $result_flag = $dbh->query($sql);
 if (!$result_flag) {
     print_r( $dbh->errorinfo());
 }
-
+// こんな感じ
 ?>
 
 <!DOCTYPE html>
